@@ -1,4 +1,4 @@
-## Report
+## Writeup
 
 ![image](.images/writeup_page-0001.jpg)
 ![image](.images/writeup_page-0002.jpg)
