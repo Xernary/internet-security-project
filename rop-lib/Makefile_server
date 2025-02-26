@@ -1,0 +1,2 @@
+main:	main.c utils.c
+	gcc -o main main.c -m32 -no-pie 
